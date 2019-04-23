@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-4.793 28.958 209.722 374.056" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style type="text/css">
+      @import url(style.css);
+    </style>
+    <pattern id="pattern-0" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+    </pattern>
+    <bx:grid x="0" y="0" width="15.274" height="15.793"/>
+  </defs>
+  <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; stroke: rgb(104, 104, 104); fill: rgb(122, 97, 66);" transform="matrix(1, 0, -0.002251, 1, -147.888, -8.709261)" d="M 157.595 63.841 H 338.819 A 9.989 9.989 0 0 1 348.808 73.83 V 408.708 H 148.808 V 72.628 A 8.787 8.787 0 0 1 157.595 63.841 Z" bx:shape="rect 148.808 63.841 200 344.867 8.787 9.989 0 0 1@c2921b0d" bx:origin="0.497749 0.5">
+    <title>Green Building</title>
+  </path>
+  <g style="" transform="matrix(1.39531, 0, 0, 1.312525, -129.695236, -100.975998)">
+    <title>Door</title>
+    <path style="fill: rgb(91, 91, 91); stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" d="M 155.442 307.24 H 174.442 A 3 3 0 0 1 177.442 310.24 V 357.24 H 152.442 V 310.24 A 3 3 0 0 1 155.442 307.24 Z" bx:shape="rect 152.442 307.24 25 50 3 3 0 0 1@9ac89a2e">
+      <title>Door</title>
+    </path>
+    <circle style="stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" cx="173.121" cy="333.986" r="1.603"/>
+    <rect style="fill: rgb(32, 32, 32); stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" x="155.161" y="311.269" width="19.563" height="17.958" rx="3" ry="3"/>
+  </g>
+  <g style="">
+    <title>Windows</title>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="27.22" y="306.795" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="149.444" y="306.795" width="25" height="50" rx="3" ry="3" class="window"/>
+  </g>
+  <g transform="matrix(1.415181, 0, 0, 0.75045, -133.409348, 99.819679)" style="">
+    <title>Stairs</title>
+    <path style="stroke-width: 0px; vector-effect: non-scaling-stroke; fill: rgb(183, 182, 170);" d="M 177.248 357.24 L 190.301 399.999 L 140.2 399.999 L 152.56 357.24 L 177.248 357.24 Z"/>
+    <g transform="matrix(1, 0, 0, 1, 0, -0.265847)">
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="150.83" y1="374.474" x2="179.725" y2="374.499" transform="matrix(1, 0.000334, -0.000334, 1, 0.125088, -0.055182)"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="148.63" y1="385.338" x2="181.925" y2="385.371"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="145.38" y1="396.21" x2="185.175" y2="396.205"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="153.933" y1="363.631" x2="176.622" y2="363.625" transform="matrix(1, 0.000334, -0.000334, 1, 0.121461, -0.055182)"/>
+    </g>
+  </g>
+  <g style="" transform="matrix(1, -0.000507, 0, 1, -64.137756, -0.149609)">
+    <title>Fence</title>
+    <g>
+      <title>Left</title>
+      <rect y="358.133" width="65.563" height="37.883" style="fill: none; stroke-width: 3px; stroke-linejoin: round; stroke: rgb(87, 44, 18);" x="64.138"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="102.767"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="89.202"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="75.636"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="116.333"/>
+    </g>
+    <polygon points="129.667 358.118 129.765 395.842 145.761 366.899 145.568 358.021" style="fill: none; stroke-width: 3px; stroke-linejoin: round; stroke: rgb(87, 44, 18);"/>
+    <polygon points="182.673 395.898 182.774 358.188 199.401 387.12 199.201 395.995" style="fill: none; stroke-width: 3px; stroke-linejoin: round; stroke: rgb(87, 44, 18);" transform="matrix(-1, 0, 0, -1, 382.074005, 754.182983)"/>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="199.4010009765625" y1="396.1170875221898" x2="199.4010009765625" y2="400.04976930452483"/>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="129.701" y1="395.968" x2="129.701" y2="400.014"/>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="89.004" y1="395.947" x2="89.004" y2="399.993"/>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="64.138" y1="396.135" x2="64.138" y2="400.181"/>
+    <g transform="matrix(1, 0, 0, 1, 135.336746, 0.187634)">
+      <title>Left</title>
+      <rect y="358.133" width="65.563" height="37.883" style="fill: none; stroke-width: 3px; stroke-linejoin: round; stroke: rgb(87, 44, 18);" x="64.138"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="102.767"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="89.202"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="75.636"/>
+      <rect y="358.133" width="5.34" height="37.883" style="fill: none; stroke-linejoin: round; stroke-width: 2px; stroke: rgb(87, 44, 18);" x="116.333"/>
+    </g>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="235.164" y1="396.135" x2="235.164" y2="400.181"/>
+    <line style="fill: none; stroke-width: 3px; stroke: rgb(87, 44, 18);" x1="265.038" y1="396.15" x2="265.038" y2="400.196"/>
+  </g>
+  <path style="fill: rgb(80, 80, 80); stroke: rgba(104, 104, 104, 0.71); stroke-width: 6px;" d="M -1.669 43.359 L 46.149 43.359 C 75.812 28.907 119.405 27.426 154.047 43.359 L 201.929 43.359 L 201.805 73.305 L -1.793 73.305 L -1.669 43.359 Z"/>
+</svg>

@@ -1,0 +1,17 @@
+For my final project, I would like to recreate the experience of living in a city,
+especially coming from my suburbia background. I want to focus on neighborhoods
+in the city that are less touristy, like the East Village, and really show what
+goes on during the day and at night. I would like to demonstrate how many things
+are happening at once without us even realizing it. I will use simple and beautiful
+SVG graphics and CSS, along with some minor HTML other than the main access page
+which will have primarily HTML with a beautiful, minimal design. I will create
+animations with a mix of SVG, CSS, Javascript, and if appropriate, HTML canvas.
+For example, animations will include a woman opening a window and yelling out of it,
+a taxi honking at pedestrians, etc. There will be many animations that are
+triggered through interactivity, but also rolling animations that will be altered
+through interactions. For example, I will include some ‘hide and seek’ animations,
+such as hovering over a manhole that a rat will then pop off of. Other interactive
+animations will including flicking lights on and off, and the ability to change
+day time to night time. Along with the main access page, each drawing will be
+“connected spatially,” where transitions between pages will make the user feel
+like the page environment has not reloaded.

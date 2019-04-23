@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-4.054 -44.288 209.598 447.419" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style type="text/css">
+      @import url(style.css);
+    </style>
+    <pattern id="pattern-0" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+    </pattern>
+    <bx:grid x="0" y="0" width="15.274" height="15.793"/>
+  </defs>
+  <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; stroke: rgb(104, 104, 104); fill: rgb(104, 104, 104);" transform="matrix(1, 0, -0.002251, 1, -147.685013, -98.884987)" d="M 158.819 77.927 H 338.819 A 9.989 9.989 0 0 1 348.808 87.916 V 498.884 H 148.808 V 87.938 A 10.011 10.011 0 0 1 158.819 77.927 Z" bx:shape="rect 148.808 77.927 200 420.957 10.011 9.989 0 0 1@b1b80d5d" bx:origin="0.497749 0.5">
+    <title>Green Building</title>
+  </path>
+  <g style="" transform="matrix(-1.39531, 0, 0, 1.312525, 265.978027, -100.975998)">
+    <title>Door</title>
+    <path style="fill: rgb(91, 91, 91); stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" d="M 155.442 307.24 H 174.442 A 3 3 0 0 1 177.442 310.24 V 357.24 H 152.442 V 310.24 A 3 3 0 0 1 155.442 307.24 Z" bx:shape="rect 152.442 307.24 25 50 3 3 0 0 1@9ac89a2e">
+      <title>Door</title>
+    </path>
+    <circle style="stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px; fill: rgb(32, 32, 32);" cx="174.03" cy="332.457" r="1.603" transform="matrix(2.124114, 0, 0, 1, -197.431335, -0.372992)"/>
+    <rect style="fill: rgb(32, 32, 32); stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" x="155.161" y="311.269" width="19.563" height="17.958" rx="3" ry="3"/>
+    <rect style="fill: rgb(32, 32, 32); stroke: rgba(101, 101, 101, 0.84); stroke-width: 1.47719px;" x="155.161" y="333.687" width="19.563" height="17.958" rx="3" ry="3"/>
+  </g>
+  <g style="">
+    <title>Windows</title>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="25" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="25" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="25" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="25" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="23.465" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="-176.492" y="307.24" width="25" height="50" rx="3" ry="3" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="95.56" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="166.12" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="66.455" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="152.435" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="109.445" y="236.68" width="25" height="50" rx="3" ry="3" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="-133.502" y="307.24" width="25" height="50" rx="3" ry="3" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window"/>
+    <rect style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" x="-90.512" y="307.24" width="25" height="50" rx="3" ry="3" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window"/>
+    <path style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" d="M -173.492 377.7 H -154.492 A 3 3 0 0 1 -151.492 380.7 V 399.999 H -176.492 V 380.7 A 3 3 0 0 1 -173.492 377.7 Z" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window" bx:shape="rect -176.492 377.7 25 22.299 3 3 0 0 1@d98e8050"/>
+    <path style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" d="M -130.658 377.7 H -111.346 A 2.844 2.844 0 0 1 -108.502 380.544 V 399.999 H -133.502 V 380.544 A 2.844 2.844 0 0 1 -130.658 377.7 Z" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window" bx:shape="rect -133.502 377.7 25 22.299 2.844 2.844 0 0 1@7160213b"/>
+    <path style="stroke-width: 9px; stroke: rgba(59, 57, 47, 0.22);" d="M -87.512 377.7 H -68.512 A 3 3 0 0 1 -65.512 380.7 V 399.999 H -90.512 V 380.7 A 3 3 0 0 1 -87.512 377.7 Z" transform="matrix(-1, 0, 0, 1, 0, 0)" class="window" bx:shape="rect -90.512 377.7 25 22.299 3 3 0 0 1@7f605370"/>
+  </g>
+  <g transform="matrix(-1.415181, 0, 0, 0.75045, 269.310333, 99.819679)" style="">
+    <title>Stairs</title>
+    <path style="stroke-width: 0px; vector-effect: non-scaling-stroke; fill: rgb(183, 182, 170);" d="M 177.248 357.24 L 190.301 399.999 L 140.2 399.999 L 152.56 357.24 L 177.248 357.24 Z"/>
+    <g transform="matrix(1, 0, 0, 1, 0, -0.265847)">
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="150.83" y1="374.474" x2="179.725" y2="374.499" transform="matrix(1, 0.000334, -0.000334, 1, 0.125088, -0.055182)"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="148.63" y1="385.338" x2="181.925" y2="385.371"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="145.38" y1="396.21" x2="185.175" y2="396.205"/>
+      <line style="stroke-linecap: round; stroke: rgb(79, 79, 79); fill: rgb(183, 182, 170);" x1="153.933" y1="363.631" x2="176.622" y2="363.625" transform="matrix(1, 0.000334, -0.000334, 1, 0.121461, -0.055182)"/>
+    </g>
+  </g>
+  <g style="" transform="matrix(-1, -0.000507, 0, 1, 199.95726, 0.050327)">
+    <title>Fence</title>
+    <g>
+      <title>Left</title>
+      <rect y="358.133" width="129.701" height="37.883" style="stroke-width: 3px; stroke-linejoin: round; stroke: rgb(71, 63, 58); fill: none;"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="102.767"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="89.202"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="75.636"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="62.07"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="48.505"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="34.939"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="21.374"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="7.808"/>
+      <rect y="358.133" width="5.34" height="37.883" style="stroke-linejoin: round; stroke-width: 2px; stroke: rgb(71, 63, 58); fill: none;" x="116.333"/>
+    </g>
+    <polygon points="129.667 358.118 129.765 395.842 145.761 366.899 145.568 358.021" style="stroke-width: 3px; stroke-linejoin: round; stroke: rgb(71, 63, 58); fill: none;"/>
+    <polygon points="182.673 395.898 182.774 358.188 199.401 387.12 199.201 395.995" style="stroke-width: 3px; stroke-linejoin: round; stroke: rgb(71, 63, 58); fill: none;" transform="matrix(-1, 0, 0, -1, 382.074005, 754.182983)"/>
+    <line style="stroke-width: 3px; stroke: rgb(71, 63, 58); fill: none;" x1="199.4010009765625" y1="396.1170875221898" x2="199.4010009765625" y2="400.04976930452483"/>
+    <line style="stroke-width: 3px; stroke: rgb(71, 63, 58); fill: none;" x1="129.701" y1="395.968" x2="129.701" y2="400.014"/>
+    <line style="stroke-width: 3px; stroke: rgb(71, 63, 58); fill: none;" x1="89.004" y1="395.947" x2="89.004" y2="399.993"/>
+    <line style="stroke-width: 3px; stroke: rgb(71, 63, 58); fill: none;" x1="36.538" y1="396.035" x2="36.538" y2="400.081"/>
+    <line style="stroke-width: 3px; stroke: rgb(71, 63, 58); fill: none;" x1="0" y1="395.902" x2="0" y2="399.948"/>
+  </g>
+  <path style="stroke: rgba(104, 104, 104, 0.71); stroke-width: 6px; fill: rgb(71, 63, 58);" d="M 0 -31.827 L 46.888 -22.411 C 74.828 -48.003 129.055 -47.153 154.786 -22.411 L 200.948 -36.016 L 202.544 7.178 L 135.512 7.178 C 134.894 -20.958 66.736 -20.958 66.534 7.178 L -1.054 7.178 L 0 -31.827 Z">
+    <title>Roof</title>
+  </path>
+</svg>
