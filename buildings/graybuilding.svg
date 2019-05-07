@@ -10,7 +10,7 @@
     <bx:grid x="0" y="0" width="15.274" height="15.793"/>
   </defs>
   <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; stroke: rgb(104, 104, 104); fill: rgb(104, 104, 104);" transform="matrix(1, 0, -0.002251, 1, -147.685013, -98.884987)" d="M 158.819 77.927 H 338.819 A 9.989 9.989 0 0 1 348.808 87.916 V 498.884 H 148.808 V 87.938 A 10.011 10.011 0 0 1 158.819 77.927 Z" bx:shape="rect 148.808 77.927 200 420.957 10.011 9.989 0 0 1@b1b80d5d" bx:origin="0.497749 0.5">
-    <title>Green Building</title>
+    <title>Gray Building</title>
   </path>
   <g style="" transform="matrix(-1.39531, 0, 0, 1.312525, 265.978027, -100.975998)">
     <title>Door</title>

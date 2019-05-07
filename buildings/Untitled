@@ -1,0 +1,11 @@
+var window = document.getElementsByClassName("window");
+
+for (var i=0; i < window.length; i++) {
+  console.log('window[i]');
+  window[i].onclick = turnOnWindow()
+}
+
+function turnOnWindow() {
+  window.classList.add("windowClicked");
+  console.log('clicked');
+}
