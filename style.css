@@ -1,0 +1,29 @@
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: darkgray;
+}
+
+
+
+img {
+  width: 10%;
+  position: relative;
+  padding: 10px;
+  float: right;
+
+}
+
+.pressed {
+  animation: draw 4s
+}
+
+@keyframes draw {
+  to {
+    transform: rotate(720deg);
+  }
+}
