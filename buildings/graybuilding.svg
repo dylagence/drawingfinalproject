@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="-4.054 -44.288 209.598 447.419" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg class="svgFileBuilding" viewBox="-4.054 -44.288 209.598 447.419" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
-    <style type="text/css">@import url(style.css);</style>
+    <style type="text/css">
+      @import url(style.css);
+    </style>
     <pattern id="pattern-0" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
       <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
     </pattern>
     <bx:grid x="0" y="0" width="15.274" height="15.793"/>
   </defs>
-  <path class="whitebuilding" style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; stroke: rgb(104, 104, 104); fill: rgb(188, 188, 188);" transform="matrix(1, 0, -0.002251, 1, -147.685013, -98.884987)" d="M 158.819 77.927 H 338.819 A 9.989 9.989 0 0 1 348.808 87.916 V 498.884 H 148.808 V 87.938 A 10.011 10.011 0 0 1 158.819 77.927 Z" bx:shape="rect 148.808 77.927 200 420.957 10.011 9.989 0 0 1@b1b80d5d" bx:origin="0.497749 0.5">
-    <title>White Building</title>
+  <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; stroke: rgb(104, 104, 104); fill: rgb(104, 104, 104);" transform="matrix(1, 0, -0.002251, 1, -147.685013, -98.884987)" d="M 158.819 77.927 H 338.819 A 9.989 9.989 0 0 1 348.808 87.916 V 498.884 H 148.808 V 87.938 A 10.011 10.011 0 0 1 158.819 77.927 Z" bx:shape="rect 148.808 77.927 200 420.957 10.011 9.989 0 0 1@b1b80d5d" bx:origin="0.497749 0.5">
+    <title>Green Building</title>
   </path>
   <g style="" transform="matrix(-1.39531, 0, 0, 1.312525, 265.978027, -100.975998)">
     <title>Door</title>
