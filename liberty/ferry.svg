@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <path style="stroke-linecap: round; stroke-width: 6px;" d="M 40.898 367.377 C 40.405 472.618 467.575 482.173 470.224 364.822"/>
+  <rect x="68.44" y="271.162" width="375.656" height="65.542" style="fill: rgb(238, 238, 238);"/>
+  <rect x="76.434" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="129.09" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="183.767" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="239.953" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="295.644" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="351.227" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <rect x="402.884" y="289.861" width="41.212" height="46.843" style="fill: rgb(144, 182, 183);"/>
+  <polyline style="fill: rgb(238, 238, 238);" points="113.589 263.949 138.171 205.529 263.506 217.483 269.669 263.929"/>
+  <polygon points="148.719 220.871 185.788 224.334 175.5 258.049 134.47 254.914 148.686 220.804" style="fill: rgb(144, 182, 183);"/>
+  <g class="paint">
+    <title>paint</title>
+    <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(156, 26, 26);" d="M 40.898 367.964 L 41.103 336.939 L 470.224 336.704 L 470.224 366.97"/>
+    <line style="stroke: rgb(156, 26, 26); stroke-width: 15px; stroke-linecap: round;" x1="68.44" y1="271.162" x2="444.096" y2="271.162"/>
+    <line style="stroke: rgb(156, 26, 26); stroke-width: 15px; stroke-linecap: round;" x1="134.47" y1="205.529" x2="267.638" y2="216.312"/>
+  </g>
+</svg>

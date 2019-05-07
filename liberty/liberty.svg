@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="51.692 -164.573 339.782 665.638" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="226.152" y1="399.743" x2="226.152" y2="429.08" gradientTransform="matrix(0.118596, -0.992943, 2.744852, 0.34262, -897.904336, 487.33917)">
+      <stop offset="0" style="stop-color: rgba(121, 171, 129, 1)"/>
+      <stop offset="1" style="stop-color: rgba(73, 117, 81, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" gradientUnits="userSpaceOnUse" x1="221.583" y1="425.556" x2="221.583" y2="501.065" spreadMethod="pad" gradientTransform="matrix(-0.011659, -0.999932, 2.028873, 0.04667, -639.232679, 627.263337)">
+      <stop offset="0" style="stop-color: rgba(163, 132, 118, 1)"/>
+      <stop offset="1" style="stop-color: rgba(107, 83, 72, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" gradientUnits="userSpaceOnUse" x1="226.41" y1="245.936" x2="226.41" y2="409.794" gradientTransform="matrix(0.541151, 0.840925, -0.617063, 0.397091, 356.756819, 56.674791)">
+      <stop offset="0" style="stop-color: rgba(121, 171, 129, 1)"/>
+      <stop offset="1" style="stop-color: rgba(73, 117, 81, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-5" gradientUnits="userSpaceOnUse" x1="253.682" y1="30.401" x2="253.682" y2="399.134" gradientTransform="matrix(0.828076, 0.560616, -0.237497, 0.350803, 138.407195, 116.898405)">
+      <stop offset="0" style="stop-color: rgba(121, 171, 129, 1)"/>
+      <stop offset="1" style="stop-color: rgba(73, 117, 81, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-7" gradientUnits="userSpaceOnUse" x1="248.499" y1="-27.599" x2="248.499" y2="78.636">
+      <stop offset="0" style="stop-color: rgba(73, 118, 81, 1)"/>
+      <stop offset="1" style="stop-color: rgba(34, 55, 38, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-8" gradientUnits="userSpaceOnUse" x1="330.246" y1="20.498" x2="330.246" y2="20.498">
+      <stop offset="0" style="stop-color: rgba(73, 118, 81, 1)"/>
+      <stop offset="1" style="stop-color: rgba(34, 55, 38, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-9" gradientUnits="userSpaceOnUse" x1="232.925" y1="-29.943" x2="232.925" y2="21.056">
+      <stop offset="0" style="stop-color: rgba(73, 118, 81, 1)"/>
+      <stop offset="1" style="stop-color: rgba(34, 55, 38, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-10" gradientUnits="userSpaceOnUse" x1="273.804" y1="-30.551" x2="273.804" y2="34.564">
+      <stop offset="0" style="stop-color: rgba(73, 118, 81, 1)"/>
+      <stop offset="1" style="stop-color: rgba(34, 55, 38, 1)"/>
+    </linearGradient>
+    <linearGradient id="gradient-11" gradientUnits="userSpaceOnUse" x1="274.761" y1="2.184" x2="274.761" y2="2.184">
+      <stop offset="0" style="stop-color: rgba(73, 118, 81, 1)"/>
+      <stop offset="1" style="stop-color: rgba(34, 55, 38, 1)"/>
+    </linearGradient>
+  </defs>
+  <polygon points="51.692 499.893 125.915 428.34 327.925 425.556 391.474 501.065" style="fill: url(#gradient-3);"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-4);" d="M 193.36 250.059 C 208.848 187.099 191.156 236.223 171.443 409.635 C 171.443 409.635 282.812 407.871 281.362 406.971 C 279.952 417.462 259.299 267.587 262.209 245.936"/>
+  <polygon points="145.623 428.467 162.383 400.629 298.476 399.743 306.681 426.478 148.188 429.08" style="fill: url(#gradient-2);"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(161, 95, 41);" d="M 155.067 -94.747 C 154.077 -93.427 136.395 -112.998 142.864 -121.627 C 138.597 -122.747 140.972 -146.213 149.297 -144.029 C 149.297 -144.029 157.124 -126.692 157.278 -126.537 C 157.432 -126.382 162.739 -110.142 161.853 -110.323 C 160.967 -110.504 154.525 -145.177 162.243 -143.814 C 157.082 -141.196 157.964 -157.726 158.103 -157.797 C 157.519 -163.452 166.717 -167.699 167.645 -158.71 C 173.008 -157.792 170.306 -137.157 168.821 -137.085 C 167.336 -137.013 185.975 -156.035 178.623 -138.239 C 171.271 -120.443 177.438 -156.675 178.623 -159.568 C 179.593 -167.347 189.354 -165.397 188.773 -158.253 C 188.192 -151.109 188.742 -134.078 188.742 -133.926 C 188.742 -133.774 188.366 -116.743 188.366 -116.593 C 188.366 -116.443 193.892 -129.928 193.892 -130.069 C 193.892 -130.21 197.232 -144.838 197.232 -145.131 C 197.232 -145.424 200.076 -140.049 200.076 -140.049 L 205.236 -128.8 C 202.599 -116.332 210.078 -127.772 210.325 -128.938 C 210.325 -128.938 217.72 -134.538 217.873 -134.538 C 218.026 -134.538 217.832 -129.462 217.678 -129.31 C 217.524 -129.158 211.2 -114.283 211.219 -113.684 C 211.238 -113.085 211.568 -102.875 205.32 -106.608 C 213.818 -104.975 204.582 -96.197 200.076 -97.033"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(73, 118, 81);" d="M 188.265 -43.657 L 187.789 -74.541 C 187.789 -74.541 211.068 -101.783 211.068 -101.644 C 211.068 -101.505 145.623 -99.555 145.623 -99.555 L 168.598 -73.423 L 172.672 -41.038"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(149, 211, 160);" d="M 199.596 70.687 L 191.003 -38.366 C 192.561 -54.246 178.839 -43.948 172.818 -56.815 C 166.797 -69.682 145.385 -52.446 146.721 -47.046 C 143.909 -34.927 146.817 -28.152 151.843 -23.739 C 156.869 -19.326 162.807 -22.493 162.496 -23.045 C 166.797 -26.085 169.564 58.808 169.65 58.27 C 174.099 73.044 204.216 86.026 199.596 70.687 Z"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-7);" d="M 288.046 78.636 C 288.122 78.734 293.105 36.355 290.456 8.655 C 288.847 -12.696 277.294 -31.545 272.222 -21.722 C 267.15 -11.899 243.482 -23.119 243.385 -23.215 C 243.288 -23.311 199.471 1.114 225.852 -18.789 C 252.233 -38.692 234.827 -20.068 217.929 -9.882 C 201.031 0.304 204.787 46.225 211.068 45.846 C 217.349 45.467 217.877 67.911 217.877 68.003"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(149, 211, 160);" d="M 238.498 80.862 L 240.12 62.487 C 234.654 64.735 217.929 37.588 217.929 16.427 C 217.929 -18.103 231.562 -26.3 256.323 -24.836 C 281.084 -23.372 290.676 -6.855 288.564 18.399 C 284.783 30.689 265.355 64.327 266.41 60.897 L 264.213 91.074"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-5);" d="M 174.26 375.868 L 186.046 226.529 C 186.078 226.637 196.726 165.66 188.965 139.269 C 191.919 118.748 193.745 104.047 190.007 92.426 C 187.83 79.697 167.667 71.242 162.993 60.488 C 159.527 50.133 192.651 65.821 195.511 32.183 C 200.223 20.445 209.982 70.456 252.777 72.354 C 284.621 79.675 308.696 64.072 309.024 83.971 C 317.129 124.938 338.788 155.779 344.625 153.307 C 344.221 152.547 293.68 202.419 298.535 211.537 C 306.681 243.081 297.718 327.997 294.072 327.997 C 286.147 347.446 256.988 353.995 251.965 346.2 C 249.093 361.009 210.73 371.758 212.292 363.704 C 214.883 375.476 174.338 415.749 169.003 391.511 L 174.26 375.868 Z"/>
+  <polyline style="fill: rgb(73, 118, 81);" points="299.158 207.535 337.345 130.715 379.375 153.253 332.424 224.202 299.67 207.499 300.078 216.554 333.728 234.347 380.148 162.14 378.433 153.118"/>
+  <polyline style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" points="332.608 224.175 333.722 234.582"/>
+  <polyline style="fill: rgb(73, 118, 81);" points="299.857 207.095 332.553 223.871 379.914 153.027 341.094 151.738 299.973 206.694"/>
+  <path style="stroke: rgb(200, 33, 33); stroke-linecap: round; stroke-width: 6px;" d="M 212.36 359.218"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: rgb(149, 211, 160);" d="M 352.918 45.846"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-8);" d="M 330.246 20.498"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-9);" d="M 254.312 -26.756 C 264.927 -13.405 231.92 37.506 213.611 15.694 C 195.302 -6.118 243.264 -37.253 252.413 -28.398 C 261.562 -19.543 226.515 -9.459 226.515 -9.459"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-10);" d="M 295.634 34.275 C 306.136 28.243 283.58 -39.733 257.885 -29.504 C 232.19 -19.275 270.217 39.154 295.634 34.275 Z"/>
+  <path style="stroke-linecap: round; stroke-width: 6px; fill: url(#gradient-11);" d="M 274.761 2.184"/>
+  <polyline style="stroke: rgb(73, 118, 81); fill: rgb(102, 171, 115);" points="216.236 8.372 198.418 -33.731 223.406 -2.474 218.131 -45.293 235.688 -12.044 238.969 -51.911 249.963 -14.887 258.717 -52.421 260.737 -17.178 282.918 -46.921 270.456 -6.59 302.802 -35.723 284.632 3.971"/>
+</svg>
