@@ -4,69 +4,132 @@ body {
     margin: 0%;
 }
 
-.building {
-  width: 100%;
-  float: right;
-}
-
-.window:hover {
-  fill: #c1c47f;
-}
-
-.windowActive {
-  fill: #fdffce;
-}
-
-
-.window {
-  fill: #232323;
-}
-
-#buildings {
+.ferry {
   position: absolute;
   padding-left: 1%;
   padding-right: 1%;
-  bottom: 0%;
-  width: 98%;
-  display: flex;
-  align-items: flex-end;
+  bottom: 10%;
+  width: 20%;
+  left: 65%;
+  z-index: 3;
+  animation: ferryAnim 45s ease infinite;
 }
 
-#skyline {
-  position: absolute;
-  z-index: -1;
-}
-
-#plane {
+.liberty {
   position: absolute;
   z-index: 2;
-  width: 15%;
-  bottom: 70%;
-  left: -20%;
-  animation: planeFly 25s linear infinite;
+  width: 20%;
+  bottom: 13%;
+  left: 15%;
 }
 
-@keyframes planeFly {
-  0% {left: -20%; -webkit-transform: scaleX(1); transform: scaleX(1);}
-  49% {left: 120%; -webkit-transform: scaleX(1); transform: scaleX(1);}
-  50% {left: 120%; -webkit-transform: scaleX(-1); transform: scaleX(-1);}
-  100% {left: -20%; -webkit-transform: scaleX(-1); transform: scaleX(-1);}
+.skyline {
+  bottom: 0%;
+  position: absolute;
 }
 
-@media only screen and (min-width: 1250px) {
-  #skyline {
-    bottom: -49%;
+.waterfront {
+  position: absolute;
+  bottom: -25%;
+  width: 150%;
+  left: -25%;
+  z-index: 4;
+  animation: wave1 10s ease infinite;
+  animation-direction: alternate;
+}
+
+.watermiddle {
+  position: absolute;
+  bottom: -10%;
+  left: -25%;
+  width: 150%;
+  z-index: 2;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  animation: wave2 14s ease infinite;
+  animation-direction: alternate;
+}
+
+.waterback {
+  position: absolute;
+  bottom: -5%;
+  z-index: 1;
+  left: -25%;
+  width: 150%;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  animation: wave3 20s ease infinite;
+  animation-direction: alternate;
+}
+
+
+
+
+@keyframes wave1 {
+  0% {left: -45%; bottom: -30%;}
+  20% {left: -44%; bottom: -32%;}
+  40% {left: -43%; bottom: -31%;}
+  60% {left: -44%; bottom: -33%;}
+  80% {left: -43%; bottom: -34%;}
+  100% {left: -42%; bottom: -32%;}
+}
+
+@keyframes wave2 {
+  0% {left: -45%; bottom: -16%;}
+  20% {left: -46%; bottom: -17%;}
+  40% {left: -43%; bottom: -16%;}
+  60% {left: -46%; bottom: -15%;}
+  80% {left: -45%; bottom: -17.5%;}
+  100% {left: -46%; bottom: -16%;}
+}
+
+@keyframes wave3 {
+  0% {left: -40%; bottom: -5%;}
+  20% {left: -42%; bottom: -6%;}
+  40% {left: -42%; bottom: -7%;}
+  60% {left: -43%; bottom: -5%;}
+  80% {left: -40%; bottom: -6%;}
+  100% {left: -41%; bottom: -6%;}
+}
+
+@keyframes ferryAnim {
+  0% {left: 100%; bottom: 8%;}
+  10% {left: 80%; bottom: 10%;}
+  20% {left: 56%; bottom: 9%;}
+  30% {left: 40%; bottom: 7%;}
+  40% {left: 18%; bottom: 7%;}
+  50% {left: -20%; bottom: 8%;transform: scaleX(1);}
+  51% {left: -20%; bottom: 8%; transform: scaleX(-1);}
+  60% {left: 15%; bottom: 8%; transform: scaleX(-1);}
+  70% {left: 40%; bottom: 7.5%;transform: scaleX(-1);}
+  80% {left: 72%; bottom: 9.5%;transform: scaleX(-1);}
+  90% {left: 90%; bottom: 8.3%;transform: scaleX(-1);}
+  100% {left: 105%; bottom: 7.3%;transform: scaleX(-1);}
+}
+
+
+@media only screen and (min-width: 1200px) {
+  .liberty {
+    bottom: 22%;
   }
-  #plane {
-    bottom: 80%;
+
+  .ferry {
+    bottom: 15%;
+  }
+
+  .waterfront {
+    bottom: -50%;
   }
 }
 
-@media only screen and (max-width: 840px) {
-  #skyline {
-    bottom: 0%;
+@media only screen and (max-width: 1000px) {
+  .liberty {
+    bottom: 10%;
+    width: 35%;
   }
-  #plane {
-    bottom: 50%;
+
+  .ferry {
+    bottom: 2%;
+    width: 35%;
   }
 }
