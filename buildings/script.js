@@ -97,7 +97,7 @@ setTimeout(function(){
   };
   colorChange(rCounter,gCounter,bCounter);
 
-}, 100);
+}, 200);
 
 var r = 112;
 var g = 178;
