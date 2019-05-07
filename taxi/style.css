@@ -3,3 +3,77 @@ body {
     padding: 0%;
     margin: 0%;
 }
+
+.skyline1 {
+  position: absolute;
+  bottom: 0%;
+  width: 200%;
+  z-index: -1;
+  animation: skylinePass 30s infinite;
+  animation-direction: alternate;
+}
+
+.skyline2 {
+  position: absolute;
+  z-index: -10;
+  bottom: -15%;
+  width: 200%;
+  animation: skylinePass2 30s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes skylinePass {
+  0% {left: -5%;}
+  10% {left: -7%;}
+  20% {left: -20%;}
+  30% {left: -22%; }
+  40% {left: -26%;}
+  50% {left: -32%;}
+  60% {left: -40%;}
+  70% {left: -60%;}
+  80% {left: -75%;}
+  90% {left: -85%; }
+  100% {left: -95%;}
+}
+
+@keyframes skylinePass2 {
+  0% {left: -2%;}
+  10% {left: -4%;}
+  20% {left: -12%;}
+  30% {left: -15%; }
+  40% {left: -18%;}
+  50% {left: -25%;}
+  60% {left: -30%;}
+  70% {left: -40%;}
+  80% {left: -55%;}
+  90% {left: -67%; }
+  100% {left: -75%;}
+}
+
+.road {
+  position: absolute;
+  bottom: 10%;
+  height: 30%;
+}
+
+.taxi {
+  position: absolute;
+  z-index: 2;
+  width: 30%;
+  bottom: 5%;
+  animation: taxiAnim 30s ease infinite;
+}
+
+@keyframes taxiAnim {
+  0% {left: 5%; bottom: 5%;}
+  10% {left: 15%; bottom: 5%;}
+  20% {left: 25%; bottom: 6%;}
+  30% {left: 15%; bottom: 5%;}
+  40% {left: 30%; bottom: 20%;}
+  50% {left: 33%; bottom: 20%;}
+  60% {left: 30%; bottom: 20%;}
+  70% {left: 52%; bottom: 21%;}
+  80% {left: 40%; bottom: 20%;}
+  90% {left: 30%; bottom: 4%;}
+  100% {left: 5%; bottom: 5%;}
+}
